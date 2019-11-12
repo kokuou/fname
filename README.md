@@ -19,6 +19,6 @@ Depending on how your live server is set up, you may run into errors or other is
 - Extra version: https://ryanfield.ca/fname/extra/
 
 # Credits
-The alphabet letters in the extra version were created by Marco Verch (https://www.flickr.com/photos/30478819@N08/29987542637).
+The alphabet letters in the extra version were created by Marco Verch (https://www.flickr.com/photos/30478819@N08/29987542637) under the CC BY 2.0 license (https://creativecommons.org/licenses/by/2.0/).
 
 The font used in the simple version is Comic Neue by Craig Rozynski and others (http://comicneue.com/).
