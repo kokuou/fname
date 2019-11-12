@@ -13,6 +13,12 @@ The code in each of the versions is pretty well commented, so if you want to exp
 
 Depending on how your live server is set up, you may run into errors or other issues, or need to make changes to get it to run. Most of the time, you should be able to troubleshoot using the error messages thrown by the script.
 
+# Demos
+- Simple version: https://ryanfield.ca/fname/simple/
+
+- Extra version: https://ryanfield.ca/fname/extra/
+
 # Credits
 The alphabet letters in the extra version were created by Marco Verch (https://www.flickr.com/photos/30478819@N08/29987542637).
+
 The font used in the simple version is Comic Neue by Craig Rozynski and others (http://comicneue.com/).
