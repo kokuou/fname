@@ -12,3 +12,7 @@ The code used for this specific implementation is PHP. In order to use this code
 The code in each of the versions is pretty well commented, so if you want to experiment with your own images/fonts/whatever, you should be able to modify things to your liking. If you're having trouble, there are plenty of resources available on the internet that can probably help you achieve what you want.
 
 Depending on how your live server is set up, you may run into errors or other issues, or need to make changes to get it to run. Most of the time, you should be able to troubleshoot using the error messages thrown by the script.
+
+# Credits
+The alphabet letters in the extra version were created by Marco Verch (https://www.flickr.com/photos/30478819@N08/29987542637).
+The font used in the simple version is Comic Neue by Craig Rozynski and others (http://comicneue.com/).
